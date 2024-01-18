@@ -56,4 +56,5 @@ customer         | customer_id
 
 ###  Решение 2 
 
-
+![Таблица](https://github.com/Replica63/DDL-DML/blob/main/Таблица.xlsx)
+![alt text](https://github.com/Replica63/DDL-DML/blob/main/img/8.png)
