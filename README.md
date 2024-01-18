@@ -52,4 +52,8 @@ customer         | customer_id
 ![alt text](https://github.com/Replica63/DDL-DML/blob/main/img/4.png)
 ![alt text](https://github.com/Replica63/DDL-DML/blob/main/img/5.png)
 ![alt text](https://github.com/Replica63/DDL-DML/blob/main/img/6.png)
+![alt text](https://github.com/Replica63/DDL-DML/blob/main/img/7.png)
+
+###  Решение 2 
+
 
